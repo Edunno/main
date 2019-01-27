@@ -10,6 +10,9 @@
 ## Check your studypoints here
 [Studypoints](https://studypoints.info)
 
+## Learning Goals for this semester
+[Learning Goals](https://docs.google.com/spreadsheets/d/1m-uV26BOeiyZHdYdSMisJVLfQmlXeOYAAO0eyaXLXqc/edit?usp=sharing)
+
 ## Weeks
 [Week-1](https://github.com/cphdat3sem2019spring/Week-01) Test, Maven, CI and JavaScript Intro
 
