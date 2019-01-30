@@ -6,7 +6,8 @@
 - [Setup Instruction for Digital Ocean](https://docs.google.com/document/d/1pP1eLz1r-gxPhzzZcEyhQMKIiv_kxFkQKZu_XC8IjFg/edit?usp=sharing) Droplet, Java, Tomcat, Host Names, NGinx and SSL
 - [How we do reviews this semester](https://docs.google.com/document/d/11B-nUI3B4LQNXGe2yGmPPCrosXgRlkhBMcbPa2yLeo8/edit?usp=sharing)
 - [Groups](https://docs.google.com/document/d/1-uTKp8SJwT6RXIBY1XxmaWtPK6rRvesc6JHD9rKEXRc/edit?usp=sharing) Navn + billede
-
+## Studypoint Exercises
+[Studypoint exercises, published as Google Doc](https://drive.google.com/open?id=17WaAeZVkUPXSj9cNIKcZCexVJYZe0Pj9)
 ## Check your studypoints here
 [Studypoints](https://studypoints.info)
 
